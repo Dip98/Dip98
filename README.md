@@ -1,1 +1,1 @@
-I'm a young coder that loves to make games! Working on a Sci-fi first person shooter in Unity right now. 
+I'm a young coder that loves to make games! You can find me on <a href = "https://www.khanacademy.org/profile/kaid_3886238215093093067654746">Khan Academy</a>, <a href = "https://dipper98.itch.io/">Itch.io</a>, <a href = "https://poly.pizza/u/Dipper98">Poly Pizza</a>, and <a href = "https://www.shadertoy.com/user/Dipper98">Shadertoy</a>!
